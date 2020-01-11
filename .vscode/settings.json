@@ -1,9 +1,0 @@
-{
-    "breadcrumbs.icons": true,
-    "python.dataScience.jupyterServerURI": "local",
-    "python.pythonPath": "/Users/y.fukuda/.pyenv/shims/python",
-    "python.autoComplete.extraPaths": [
-        "/Users/y.fukuda/.pyenv/versions/anaconda3-2019.03/lib/python3.7/site-packages"
-    ],
-    "files.autoSave": "onFocusChange"
-}
